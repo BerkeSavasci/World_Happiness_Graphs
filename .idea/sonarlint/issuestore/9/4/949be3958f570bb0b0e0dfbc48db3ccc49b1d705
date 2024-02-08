@@ -1,9 +1,8 @@
 
-npython:S11929"ODefine a constant instead of duplicating this literal 'GDP per Capita' 3 times.(ŞÒØ8İîùÕ1
-tpython:S1192*"VDefine a constant instead of duplicating this literal 'Logged GDP per capita' 7 times.(“ïã\8İîùÕ1
-~python:S11926"ZDefine a constant instead of duplicating this literal 'Perceptions of corruption' 3 times.(­Š§şÿÿÿÿ8İîùÕ1
-lpython:S11929"MDefine a constant instead of duplicating this literal 'Ladder Score' 3 times.(ŞÒØ8İîùÕ1
-spython:S11926"ODefine a constant instead of duplicating this literal 'Social support' 3 times.(­Š§şÿÿÿÿ8İîùÕ1
-python:S11926"]Define a constant instead of duplicating this literal 'Freedom to make life choices' 3 times.(­Š§şÿÿÿÿ8İîùÕ1
-lpython:S1192)"MDefine a constant instead of duplicating this literal 'Ladder score' 7 times.(¼¢ø¿8İîùÕ1
-Kpython:S1172",Remove the unused function parameter "plot".(á§Çä8İîùÕ1
+npython:S1192C"ODefine a constant instead of duplicating this literal 'GDP per Capita' 3 times.(ò¨®Û8İîùÕ1
+upython:S11921"VDefine a constant instead of duplicating this literal 'Logged GDP per capita' 7 times.(Õˆî…8İîùÕ1
+~python:S1192@"ZDefine a constant instead of duplicating this literal 'Perceptions of corruption' 3 times.(ÍÆ‹ñøÿÿÿÿ8İîùÕ1
+lpython:S1192C"MDefine a constant instead of duplicating this literal 'Ladder Score' 3 times.(ò¨®Û8İîùÕ1
+spython:S1192?"ODefine a constant instead of duplicating this literal 'Social support' 3 times.(­Åüøÿÿÿÿ8İîùÕ1
+python:S1192@"]Define a constant instead of duplicating this literal 'Freedom to make life choices' 3 times.(ÍÆ‹ñøÿÿÿÿ8İîùÕ1
+lpython:S11920"MDefine a constant instead of duplicating this literal 'Ladder score' 7 times.(¼¢ø¿8İîùÕ1
