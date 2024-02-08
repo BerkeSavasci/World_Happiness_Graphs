@@ -6,17 +6,17 @@ import seaborn as sns
 from scipy import stats
 from scipy.stats import spearmanr
 
-
+# fetch the data from excel
 def load_data(file_name, sheet_name='Tabellenblatt1'):
     xl = pd.ExcelFile(file_name)
     return xl.parse(sheet_name)
 
-
+# save plots with the given path
 def save_plot(file_path):
     plt.savefig(file_path)
     plt.close()
 
-
+# save the plot with specific name
 def plot_histogram(data, column_name, file_name):
     sns.histplot(data, bins=30, kde=True)
     plt.xlabel(f'{column_name} Data')
@@ -24,7 +24,7 @@ def plot_histogram(data, column_name, file_name):
     plt.title(f'Distribution of {column_name} Data in Europe')
     save_plot(f'plots/histogram_{column_name.replace(" ", "_")}_{os.path.basename(file_name)}.png')
 
-
+# perform normality tests and create a QQ diagram
 def normality_testing(data, column_name):
     stats.probplot(data, plot=plt)
     plt.title(f"QQ Diagramm - {column_name} Data")
@@ -33,7 +33,7 @@ def normality_testing(data, column_name):
     shapiro_test_result = stats.shapiro(data)
     print(f'{column_name} Data - Shapiro test statistic: {shapiro_test_result[0]}, p-value: {shapiro_test_result[1]}')
 
-
+# create and save histograms
 def create_and_save_histograms(file_name, columns):
     df = load_data(file_name)
 
@@ -42,7 +42,7 @@ def create_and_save_histograms(file_name, columns):
         plot_histogram(column_data, column, file_name)
         normality_testing(column_data, column)
 
-
+# scatter plot creation for visualization
 def create_and_save_scatterplot(file_name):
     df = load_data(file_name)
     df['Ladder score'] = pd.to_numeric(df['Ladder score'], errors='coerce')
@@ -57,7 +57,7 @@ def create_and_save_scatterplot(file_name):
 
     save_plot(f'plots/correlation_{os.path.basename(file_name)}.png')
 
-
+# Compute and save Spearman correlation matrix for specified columns.
 def compute_correlation(file_name):
     df = load_data(file_name)
     columns = ['Ladder score', 'Logged GDP per capita', 'Social support', 'Healthy life expectancy',
