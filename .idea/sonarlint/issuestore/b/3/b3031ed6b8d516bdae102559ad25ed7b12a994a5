@@ -1,0 +1,62 @@
+
+rpython:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÇÀÓ÷ıÿÿÿÿ
+Spython:S2836Í"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿ
+tpython:S117ú"WRename this parameter "FigureClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(³ƒá©ùÿÿÿÿ
+tpython:S117–"WRename this parameter "FigureClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛªÃÌûÿÿÿÿ
+rpython:S3776‰"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¨ûéÛúÿÿÿÿ
+mpython:S1854ú
+"ORemove this assignment to local variable 'projection'; the value is never used.(ğõßŸøÿÿÿÿ
+rpython:S3776é	"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ä´—­ıÿÿÿÿ
+epython:S117ß"MRename this parameter "A" to match the regular expression ^[_a-z][a-z0-9_]*$.(†¾İ
+jpython:S117·"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôÊ’şÿÿÿÿ
+kpython:S117®"NRename this parameter "Fc" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ìãÃÿÿÿÿÿ
+fpython:S117­"NRename this parameter "Fs" to match the regular expression ^[_a-z][a-z0-9_]*$.(î¥Ş
+kpython:S107ó"NFunction "boxplot" has 28 parameters, which is greater than the 13 authorized.(æ·¨’ÿÿÿÿÿ
+kpython:S117Á"NRename this parameter "CS" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛÕ´øÿÿÿÿÿ
+fpython:S117Ì"NRename this parameter "Fc" to match the regular expression ^[_a-z][a-z0-9_]*$.(…¸±†
+epython:S117Ë"NRename this parameter "Fs" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì´ú0
+hpython:S117Ê"PRename this parameter "NFFT" to match the regular expression ^[_a-z][a-z0-9_]*$.(à®–©
+kpython:S117†"NRename this parameter "Fc" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ìãÃÿÿÿÿÿ
+fpython:S117…"NRename this parameter "Fs" to match the regular expression ^[_a-z][a-z0-9_]*$.(î¥Ş
+hpython:S117„"PRename this parameter "NFFT" to match the regular expression ^[_a-z][a-z0-9_]*$.(Øö¥
+gpython:S107‚"JFunction "csd" has 14 parameters, which is greater than the 13 authorized.(ŠÊğòıÿÿÿÿ
+lpython:S107À"OFunction "errorbar" has 17 parameters, which is greater than the 13 authorized.(ìğòøÿÿÿÿ
+jpython:S117Í"MRename this parameter "C" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïĞ¸ÿÿÿÿÿ
+tpython:S117Ú"]Rename this parameter "reduce_C_function" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù—¹b
+jpython:S107Ë"MFunction "hexbin" has 20 parameters, which is greater than the 13 authorized.(ŠÊğòıÿÿÿÿ
+hpython:S107ş"KFunction "hist" has 17 parameters, which is greater than the 13 authorized.(æ·¨’ÿÿÿÿÿ
+jpython:S117ü"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æâúÿÿÿÿ
+jpython:S107ü"MFunction "imshow" has 17 parameters, which is greater than the 13 authorized.(Æâúÿÿÿÿ
+kpython:S117¿"NRename this parameter "Fc" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ìãÃÿÿÿÿÿ
+fpython:S117¾"NRename this parameter "Fs" to match the regular expression ^[_a-z][a-z0-9_]*$.(î¥Ş
+kpython:S117«"NRename this parameter "Fc" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ìãÃÿÿÿÿÿ
+fpython:S117ª"NRename this parameter "Fs" to match the regular expression ^[_a-z][a-z0-9_]*$.(î¥Ş
+gpython:S107Â"JFunction "pie" has 19 parameters, which is greater than the 13 authorized.(ŠÊğòıÿÿÿÿ
+kpython:S117Ÿ"NRename this parameter "Fc" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ìãÃÿÿÿÿÿ
+fpython:S117"NRename this parameter "Fs" to match the regular expression ^[_a-z][a-z0-9_]*$.(î¥Ş
+hpython:S117"PRename this parameter "NFFT" to match the regular expression ^[_a-z][a-z0-9_]*$.(Øö¥
+epython:S117Ë"MRename this parameter "Q" to match the regular expression ^[_a-z][a-z0-9_]*$.(”â´
+epython:S117Ë"MRename this parameter "U" to match the regular expression ^[_a-z][a-z0-9_]*$.(”â´
+epython:S117Ë"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(”â´
+epython:S117Ë"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(”â´
+kpython:S107Ó"NFunction "scatter" has 15 parameters, which is greater than the 13 authorized.(ìğòøÿÿÿÿ
+kpython:S117‹"NRename this parameter "Fc" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ìãÃÿÿÿÿÿ
+fpython:S117Š"NRename this parameter "Fs" to match the regular expression ^[_a-z][a-z0-9_]*$.(î¥Ş
+hpython:S117‰"PRename this parameter "NFFT" to match the regular expression ^[_a-z][a-z0-9_]*$.(Øö¥
+lpython:S107ˆ"OFunction "specgram" has 18 parameters, which is greater than the 13 authorized.(ŠÊğòıÿÿÿÿ
+epython:S117¹"MRename this parameter "Z" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹…Æİ
+npython:S107Œ"QFunction "streamplot" has 19 parameters, which is greater than the 13 authorized.(ç×²–ûÿÿÿÿ
+opython:S117¾"WRename this parameter "cellColours" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ŠÊ
+ppython:S117¿"SRename this parameter "cellLoc" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÑğéÇøÿÿÿÿ
+qpython:S117½"TRename this parameter "cellText" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀØµ®ùÿÿÿÿ
+npython:S117Å"VRename this parameter "colColours" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùùı´
+rpython:S117Ä"URename this parameter "colLabels" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡·¡Èøÿÿÿÿ
+jpython:S117Æ"RRename this parameter "colLoc" to match the regular expression ^[_a-z][a-z0-9_]*$.(³Ë¿„
+rpython:S117À"URename this parameter "colWidths" to match the regular expression ^[_a-z][a-z0-9_]*$.(şæß”øÿÿÿÿ
+npython:S117Â"VRename this parameter "rowColours" to match the regular expression ^[_a-z][a-z0-9_]*$.(éŞÃÏ
+rpython:S117Á"URename this parameter "rowLabels" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ÷Ä¸úÿÿÿÿ
+opython:S117Ã"RRename this parameter "rowLoc" to match the regular expression ^[_a-z][a-z0-9_]*$.(®Ä‹´øÿÿÿÿ
+ipython:S107½"LFunction "table" has 14 parameters, which is greater than the 13 authorized.(ÀØµ®ùÿÿÿÿ
+mpython:S117ô"URename this parameter "useLocale" to match the regular expression ^[_a-z][a-z0-9_]*$.(æúôÙ
+opython:S117õ"WRename this parameter "useMathText" to match the regular expression ^[_a-z][a-z0-9_]*$.(Æçé¨
+rpython:S117ó"URename this parameter "useOffset" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğØÈºûÿÿÿÿ

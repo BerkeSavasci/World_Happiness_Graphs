@@ -1,0 +1,73 @@
+
+python:S1192½ "cDefine a constant instead of duplicating this literal "Columns must be same length as key" 3 times.(œšŠ¶şÿÿÿÿ
+opython:S1192¨"QDefine a constant instead of duplicating this literal "display.max_rows" 3 times.(¶Ï€öıÿÿÿÿ
+kpython:S1192µ"RDefine a constant instead of duplicating this literal "mode.data_manager" 3 times.(çÚïß
+Hpython:S1066à"/Merge this if statement with the enclosing one.(ßçöÜ
+Hpython:S1066ú%"/Merge this if statement with the enclosing one.(¸¼ûõ
+Hpython:S1066ş%"/Merge this if statement with the enclosing one.(‡£ü¾
+Hpython:S1066ÿ="/Merge this if statement with the enclosing one.(À€™
+vpython:S5864ë0"XFix this "~" operation; Previous type checks suggest that operand has incompatible type.(§Â©éøÿÿÿÿ
+vpython:S5864ò0"XFix this "~" operation; Previous type checks suggest that operand has incompatible type.(§Â©éøÿÿÿÿ
+rpython:S3776™"TRefactor this function to reduce its Cognitive Complexity from 74 to the 15 allowed.(ú„Úüùÿÿÿÿ
+Rpython:S1135Ó"4Complete the task associated to this "TODO" comment.(èÈÑèşÿÿÿÿ
+Mpython:S1135ƒ"4Complete the task associated to this "TODO" comment.(ãÉ´
+Npython:S1481°"0Replace unused local variable "height" with "_".(”³çÿÿÿÿÿ
+kpython:S107	"NMethod "to_string" has 19 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+kpython:S107¶	"NMethod "to_string" has 19 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+kpython:S107Ù	"NMethod "to_string" has 19 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+ˆpython:S5886ô
+"jRemove this yield statement or annotate function "items" with "typing.Generator" or one of its supertypes.(öñô€şÿÿÿÿ
+ƒpython:S5886÷
+"jRemove this yield statement or annotate function "items" with "typing.Generator" or one of its supertypes.(¢ËÕ
+†python:S5886­"mRemove this yield statement or annotate function "iterrows" with "typing.Generator" or one of its supertypes.(ÒãÛş
+rpython:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(«ˆ»øÿÿÿÿ
+Mpython:S1135ƒ"4Complete the task associated to this "TODO" comment.(¯º ş
+rpython:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 72 to the 15 allowed.(È¡æèûÿÿÿÿ
+rpython:S3776à"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(—Î·üøÿÿÿÿ
+ipython:S107ÿ"LMethod "to_html" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+ipython:S107œ"LMethod "to_html" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+ipython:S107À"LMethod "to_html" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+Mpython:S1135¢"4Complete the task associated to this "TODO" comment.(°úÿâ
+ypython:S117Õ"\Rename this local variable "TreeBuilder" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¨õîüÿÿÿÿ
+hpython:S107²"KMethod "to_xml" has 16 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+rpython:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÒêÂÚùÿÿÿÿ
+Mpython:S1135ÿ"4Complete the task associated to this "TODO" comment.(ë‰œ£
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(şâæ«ÿÿÿÿÿ
+kpython:S6729¿"MUse "np.nonzero" when only the condition parameter is provided to "np.where".(µÿîûÿÿÿÿ
+rpython:S3776„ "TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ıÀ•—ÿÿÿÿÿ
+<python:S6741¦ "Do not use "DataFrame.values".(€Ò¯ûÿÿÿÿ
+rpython:S3776è "TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ñªßÿıÿÿÿÿ
+rpython:S3776÷$"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ûšÎ¹ÿÿÿÿÿ
+Npython:S930°'"1Remove this unexpected named argument 'allow_2d'.(Ø¦’Éıÿÿÿÿ
+Epython:S1481¢,"'Remove the unused local variable "col".(œÈ´Õûÿÿÿÿ
+rpython:S3776ç+"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(œƒÜ—ıÿÿÿÿ
+Rpython:S1135£,"4Complete the task associated to this "TODO" comment.(…ªıÄşÿÿÿÿ
+mpython:S3776í,"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ãˆØ
+mpython:S3776ã."TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(˜ëÃ˜
+rpython:S37761"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ñÑ‹°şÿÿÿÿ
+rpython:S3776à4"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ï€§ıÿÿÿÿ
+Rpython:S1135‚<"4Complete the task associated to this "TODO" comment.(¡¢Ê’ÿÿÿÿÿ
+Rpython:S1135†<"4Complete the task associated to this "TODO" comment.(ºÎÏĞÿÿÿÿÿ
+Lpython:S1481Ò<".Replace unused local variable "cols" with "_".(ø¶ìúÿÿÿÿ
+Lpython:S1135ù<"4Complete the task associated to this "TODO" comment.(×İüN
+Mpython:S1135‚="4Complete the task associated to this "TODO" comment.(×¦
+mpython:S3776‡="TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(Æ¨†Ç
+Lpython:S1135˜>"4Complete the task associated to this "TODO" comment.(‹éğ
+Rpython:S1135¶>"4Complete the task associated to this "TODO" comment.(÷÷Çİÿÿÿÿÿ
+rpython:S3776ğ@"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(µÇºşÿÿÿÿ
+mpython:S3776ôB"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ØÎ‘Ë
+Rpython:S1135òC"4Complete the task associated to this "TODO" comment.(®¸Áşÿÿÿÿ
+mpython:S3776ôG"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ì–¯£
+mpython:S3776ÕI"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÒĞİó
+zpython:S5886¤K"\Return a value of type "DataFrame" instead of "NDFrame" or update function "melt" type hint.(¥ Ğõøÿÿÿÿ
+Jpython:S1172”L",Remove the unused function parameter "ndim".(­áİ‡úÿÿÿÿ
+Rpython:S1135§L"4Complete the task associated to this "TODO" comment.(¬ˆÄùÿÿÿÿ
+rpython:S3776ÃO"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¿Ïƒâûÿÿÿÿ
+Apython:S108ãO")Either remove or fill this block of code.(ã‘Û¾
+rpython:S3776øO"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ç’îûÿÿÿÿ
+Gpython:S6735ÙQ")Specify the "on" parameter of this merge.(ÿÏ¥·ÿÿÿÿÿ
+rpython:S3776‡R"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(”¥Óıÿÿÿÿ
+Lpython:S5727üR"3Remove this identity check; it will always be True.(ôŸî›
+rpython:S3776†S"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¤ÀÉùÿÿÿÿ
+rpython:S3776ÒV"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(åµºÃúÿÿÿÿ
+rpython:S3776§["TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(¥‚ø®ùÿÿÿÿ
